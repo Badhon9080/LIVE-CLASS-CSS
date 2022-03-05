@@ -1,0 +1,39 @@
+h1{
+  color:red;
+  background-color:black;
+}
+ 
+ /* #first{
+   background-color:green;
+ }
+  
+ 
+  #last{
+   
+    background-color:green;
+  } */
+.same{
+  background-color:green;
+  
+  
+}
+.another{
+  font-size: 100px;
+}
+p{
+  font-size: 20px;
+  color:#333;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  line-height: 2;
+  letter-spacing: 2px;  
+  /* width: 50%; */
+  
+  background-image: url(../img/bg.jpg);
+ /* background-repeat: no-repeat; */
+  background-position:  center; 
+   background-size: cover;
+   background-attachment: fixed;
+
+}
